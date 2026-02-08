@@ -1,1 +1,3 @@
 Jó napot Tanár úr, ez a csodálatos hf-em, nyomokban tartalmazhat Gemini-s segítséget :)
+.
+pull request teszt
